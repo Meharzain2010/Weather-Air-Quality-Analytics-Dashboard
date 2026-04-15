@@ -8,7 +8,15 @@ The goal is to analyze e-commerce sales data and extract insights related to **r
 
 The dashboard enables stakeholders to make **data-driven decisions** through interactive visualizations.
 
+
+
 ---
+
+## Visualizations
+
+
+<img width="1920" height="1080" alt="Dashboard" src="https://github.com/user-attachments/assets/d0d78ac8-ec1b-4ecb-a914-b7e5543492e2" />
+
 
 ## Tools Used
 
@@ -53,13 +61,6 @@ The dataset consists of e-commerce sales records including:
 * **Category & Sub-category Performance**
 * **Payment Mode Distribution**
 
----
-
-## Visualizations
-
-### Dashboard Overview
-
-<img width="1339" height="754" alt="Dashboard" src="https://github.com/user-attachments/assets/8c02829a-66a4-4add-866f-4ca102e94247" />
 
 
 
